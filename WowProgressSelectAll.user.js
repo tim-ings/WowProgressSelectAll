@@ -6,7 +6,7 @@
 // @author       Arwic-Frostmourne
 // @match        https://www.wowprogress.com/update_progress/guild/*
 // @grant        none
-// @license      All Rights Reserved
+// @license      MIT
 // ==/UserScript==
 
 (function() {
