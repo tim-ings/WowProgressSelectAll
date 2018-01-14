@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name         Warcraft Logs - Select All
+// @name         WowProgress - Select All
 // @namespace    http://arwic.io/
-// @version      1.0
+// @version      1.1
 // @description  Adds a select all characters button to the guild update page
 // @author       Arwic-Frostmourne
 // @match        https://www.wowprogress.com/update_progress/guild/*
 // @grant        none
+// @license      All Rights Reserved
 // ==/UserScript==
 
 (function() {
